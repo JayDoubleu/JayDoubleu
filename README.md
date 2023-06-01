@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm enthusiastic about sharing code and ideas, the views and opinions expressed here are purely my own and do not reflect those of any company or institution I am affiliated with. Happy coding!
 <!--
 **JayDoubleu/JayDoubleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
